@@ -11,18 +11,20 @@ import (
 	"strings"
 )
 
+const (
+	BASE = "https://api.trace.moe"
+)
+
 type Moe struct {
-	base  string
-	media string
 	token string
 }
 
-func NewMoe(baseurl string, mediaurl string, token string) *Moe {
-	return &Moe{baseurl, mediaurl, token}
+func NewMoe(token string) *Moe {
+	return &Moe{token}
 }
 
 func (m *Moe) Me() ([]byte, error) {
-	url := m.base + "/me"
+	url := BASE + "/me"
 	if m.token != "" {
 		url += "?key=" + m.token
 	}
@@ -39,7 +41,7 @@ func (m *Moe) Me() ([]byte, error) {
 }
 
 func (m *Moe) Search(path string, cutBlackBorders bool, includeAnilistInfo bool) (*Result, error) {
-	u := m.base + "/search"
+	u := BASE + "/search"
 	isurl := strings.HasPrefix(path, "http")
 	var resp *http.Response
 	var err error

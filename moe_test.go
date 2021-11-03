@@ -1,9 +1,12 @@
 package trmoe
 
-import "testing"
+import (
+	"fmt"
+	"testing"
+)
 
 func TestSearch(t *testing.T) {
-	m := NewMoe("https://api.trace.moe", "https://media.trace.moe/", "")
+	m := NewMoe("")
 	r, err := m.Search("https://trace.moe/img/flipped-good.jpg", true, true)
 	t.Log(r)
 	if err != nil {
@@ -14,5 +17,7 @@ func TestSearch(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	t.Fail()
+	if fmt.Sprint(r) != fmt.Sprint(r2) {
+		t.Fail()
+	}
 }
