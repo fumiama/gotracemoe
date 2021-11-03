@@ -1,0 +1,245 @@
+{
+    "frameCount": 3843460,
+    "error": "",
+    "result": [
+        {
+            "anilist": {
+                "id": 20872,
+                "idMal": 27775,
+                "title": {
+                    "native": "プラスティックメモリーズ",
+                    "romaji": "Plastic Memories",
+                    "english": "Plastic Memories"
+                },
+                "synonyms": [
+                    "Plamemo"
+                ],
+                "isAdult": false
+            },
+            "filename": "[Leopard-Raws] Plastic Memories - 01 RAW (ATX 1280x720 x264 AAC).mp4",
+            "episode": 1,
+            "from": 49.83,
+            "to": 50.58,
+            "similarity": 0.9493550489775402,
+            "video": "https://media.trace.moe/video/20872/%5BLeopard-Raws%5D%20Plastic%20Memories%20-%2001%20RAW%20(ATX%201280x720%20x264%20AAC).mp4?t=50.205&token=rQVxoLpBG05meMA8Vr4hDvDqmNo",
+            "image": "https://media.trace.moe/image/20872/%5BLeopard-Raws%5D%20Plastic%20Memories%20-%2001%20RAW%20(ATX%201280x720%20x264%20AAC).mp4?t=50.205&token=rQVxoLpBG05meMA8Vr4hDvDqmNo"
+        },
+        {
+            "anilist": {
+                "id": 20872,
+                "idMal": 27775,
+                "title": {
+                    "native": "プラスティックメモリーズ",
+                    "romaji": "Plastic Memories",
+                    "english": "Plastic Memories"
+                },
+                "synonyms": [
+                    "Plamemo"
+                ],
+                "isAdult": false
+            },
+            "filename": "Plastic Memories - 01 (BD 1280x720 x264 AAC).mp4",
+            "episode": 1,
+            "from": 49.75,
+            "to": 50.5,
+            "similarity": 0.9304846724963615,
+            "video": "https://media.trace.moe/video/20872/Plastic%20Memories%20-%2001%20(BD%201280x720%20x264%20AAC).mp4?t=50.125&token=0htUMSwhfEHqlSShZqxQQgKPPM",
+            "image": "https://media.trace.moe/image/20872/Plastic%20Memories%20-%2001%20(BD%201280x720%20x264%20AAC).mp4?t=50.125&token=0htUMSwhfEHqlSShZqxQQgKPPM"
+        },
+        {
+            "anilist": {
+                "id": 19815,
+                "idMal": 19815,
+                "title": {
+                    "native": "ノーゲーム・ノーライフ",
+                    "romaji": "No Game No Life",
+                    "english": "No Game, No Life"
+                },
+                "synonyms": [
+                    "NGNL",
+                    "NO GAME NO LIFE游戏人生",
+                    "游戏人生"
+                ],
+                "isAdult": false
+            },
+            "filename": "No Game No Life - 11 (BD 1280x720 x264 AAC).mp4",
+            "episode": 11,
+            "from": 1237,
+            "to": 1237.5,
+            "similarity": 0.7942399026283501,
+            "video": "https://media.trace.moe/video/19815/No%20Game%20No%20Life%20-%2011%20(BD%201280x720%20x264%20AAC).mp4?t=1237.25&token=Zl1zyMAoShzqmZ2T4W8yuSScPaI",
+            "image": "https://media.trace.moe/image/19815/No%20Game%20No%20Life%20-%2011%20(BD%201280x720%20x264%20AAC).mp4?t=1237.25&token=Zl1zyMAoShzqmZ2T4W8yuSScPaI"
+        },
+        {
+            "anilist": {
+                "id": 101922,
+                "idMal": 38000,
+                "title": {
+                    "native": "鬼滅の刃",
+                    "romaji": "Kimetsu no Yaiba",
+                    "english": "Demon Slayer: Kimetsu no Yaiba"
+                },
+                "synonyms": [
+                    "KnY",
+                    "Kimetsu no Yaiba: Kyoudai no Kizuna",
+                    "Demon Slayer: Kimetsu no Yaiba: Bonds of Siblings",
+                    "鬼滅の刃-兄妹の絆-",
+                    "鬼灭之刃",
+                    "הלהב קוטל השדים",
+                    "قاتل الشياطين",
+                    "ดาบพิฆาตอสูร"
+                ],
+                "isAdult": false
+            },
+            "filename": "Kimetsu no Yaiba - 20 (BD 1280x720 x264 AACx2).mp4",
+            "episode": 20,
+            "from": 1084.5,
+            "to": 1085.5,
+            "similarity": 0.7700982301111283,
+            "video": "https://media.trace.moe/video/101922/Kimetsu%20no%20Yaiba%20-%2020%20(BD%201280x720%20x264%20AACx2).mp4?t=1085&token=Z9L6UyHy8p4IUd9OaN2HC9IYU",
+            "image": "https://media.trace.moe/image/101922/Kimetsu%20no%20Yaiba%20-%2020%20(BD%201280x720%20x264%20AACx2).mp4?t=1085&token=Z9L6UyHy8p4IUd9OaN2HC9IYU"
+        },
+        {
+            "anilist": {
+                "id": 21306,
+                "idMal": 31442,
+                "title": {
+                    "native": "無彩限のファントム・ワールド",
+                    "romaji": "Musaigen no Phantom World",
+                    "english": "Myriad Colors Phantom World"
+                },
+                "synonyms": [],
+                "isAdult": false
+            },
+            "filename": "Musaigen no Phantom World - 05 (BS11 1280x720 x264 AAC).mp4",
+            "episode": 5,
+            "from": 1122.58,
+            "to": 1122.92,
+            "similarity": 0.769927997102742,
+            "video": "https://media.trace.moe/video/21306/Musaigen%20no%20Phantom%20World%20-%2005%20(BS11%201280x720%20x264%20AAC).mp4?t=1122.75&token=EcPGc1Bj18Xr6IQV44sU16goGE",
+            "image": "https://media.trace.moe/image/21306/Musaigen%20no%20Phantom%20World%20-%2005%20(BS11%201280x720%20x264%20AAC).mp4?t=1122.75&token=EcPGc1Bj18Xr6IQV44sU16goGE"
+        },
+        {
+            "anilist": {
+                "id": 21086,
+                "idMal": 30251,
+                "title": {
+                    "native": "VENUS PROJECT －CLIMAX－",
+                    "romaji": "VENUS PROJECT: CLIMAX",
+                    "english": "Venus Project -Climax-"
+                },
+                "synonyms": [],
+                "isAdult": false
+            },
+            "filename": "[Leopard-Raws] Venus Project - Climax - 03 RAW (MX 1280x720 x264 AAC).mp4",
+            "episode": 3,
+            "from": 952.75,
+            "to": 952.92,
+            "similarity": 0.7655209917849433,
+            "video": "https://media.trace.moe/video/21086/%5BLeopard-Raws%5D%20Venus%20Project%20-%20Climax%20-%2003%20RAW%20(MX%201280x720%20x264%20AAC).mp4?t=952.835&token=WPQ8VXJstRrXfwZnN91BgmKo",
+            "image": "https://media.trace.moe/image/21086/%5BLeopard-Raws%5D%20Venus%20Project%20-%20Climax%20-%2003%20RAW%20(MX%201280x720%20x264%20AAC).mp4?t=952.835&token=WPQ8VXJstRrXfwZnN91BgmKo"
+        },
+        {
+            "anilist": {
+                "id": 101922,
+                "idMal": 38000,
+                "title": {
+                    "native": "鬼滅の刃",
+                    "romaji": "Kimetsu no Yaiba",
+                    "english": "Demon Slayer: Kimetsu no Yaiba"
+                },
+                "synonyms": [
+                    "KnY",
+                    "Kimetsu no Yaiba: Kyoudai no Kizuna",
+                    "Demon Slayer: Kimetsu no Yaiba: Bonds of Siblings",
+                    "鬼滅の刃-兄妹の絆-",
+                    "鬼灭之刃",
+                    "הלהב קוטל השדים",
+                    "قاتل الشياطين",
+                    "ดาบพิฆาตอสูร"
+                ],
+                "isAdult": false
+            },
+            "filename": "[Ohys-Raws] Kimetsu no Yaiba - 20 (BS11 1280x720 x264 AAC).mp4",
+            "episode": 20,
+            "from": 1094.58,
+            "to": 1095.92,
+            "similarity": 0.7636494692334955,
+            "video": "https://media.trace.moe/video/101922/%5BOhys-Raws%5D%20Kimetsu%20no%20Yaiba%20-%2020%20(BS11%201280x720%20x264%20AAC).mp4?t=1095.25&token=gqm8Jo1DSfW5IrsLFs1Oo3DDV0",
+            "image": "https://media.trace.moe/image/101922/%5BOhys-Raws%5D%20Kimetsu%20no%20Yaiba%20-%2020%20(BS11%201280x720%20x264%20AAC).mp4?t=1095.25&token=gqm8Jo1DSfW5IrsLFs1Oo3DDV0"
+        },
+        {
+            "anilist": {
+                "id": 101922,
+                "idMal": 38000,
+                "title": {
+                    "native": "鬼滅の刃",
+                    "romaji": "Kimetsu no Yaiba",
+                    "english": "Demon Slayer: Kimetsu no Yaiba"
+                },
+                "synonyms": [
+                    "KnY",
+                    "Kimetsu no Yaiba: Kyoudai no Kizuna",
+                    "Demon Slayer: Kimetsu no Yaiba: Bonds of Siblings",
+                    "鬼滅の刃-兄妹の絆-",
+                    "鬼灭之刃",
+                    "הלהב קוטל השדים",
+                    "قاتل الشياطين",
+                    "ดาบพิฆาตอสูร"
+                ],
+                "isAdult": false
+            },
+            "filename": "[Leopard-Raws] Kimetsu no Yaiba - 20 RAW (BS11 1280x720 x264 AAC).mp4",
+            "episode": 20,
+            "from": 1094.33,
+            "to": 1096.25,
+            "similarity": 0.7636494692334955,
+            "video": "https://media.trace.moe/video/101922/%5BLeopard-Raws%5D%20Kimetsu%20no%20Yaiba%20-%2020%20RAW%20(BS11%201280x720%20x264%20AAC).mp4?t=1095.29&token=4ZyoMq9WYuDWAUvZAW9RAVGCs0",
+            "image": "https://media.trace.moe/image/101922/%5BLeopard-Raws%5D%20Kimetsu%20no%20Yaiba%20-%2020%20RAW%20(BS11%201280x720%20x264%20AAC).mp4?t=1095.29&token=4ZyoMq9WYuDWAUvZAW9RAVGCs0"
+        },
+        {
+            "anilist": {
+                "id": 114308,
+                "idMal": 40540,
+                "title": {
+                    "native": "ソードアート・オンライン アリシゼーション War of Underworld",
+                    "romaji": "Sword Art Online: Alicization - War of Underworld Part 2",
+                    "english": "Sword Art Online: Alicization - War of Underworld Part 2"
+                },
+                "synonyms": [
+                    "Sword Art Online: Alicization - War of Underworld Last Season",
+                    "SAOV",
+                    "SAO5"
+                ],
+                "isAdult": false
+            },
+            "filename": "Sword Art Online Alicization - War of Underworld - 19 (BD 1280x720 x264 AAC).mp4",
+            "episode": 19,
+            "from": 1297.58,
+            "to": 1297.58,
+            "similarity": 0.7629766530674835,
+            "video": "https://media.trace.moe/video/114308/Sword%20Art%20Online%20Alicization%20-%20War%20of%20Underworld%20-%2019%20(BD%201280x720%20x264%20AAC).mp4?t=1297.58&token=6BgbywvlYtKApJV0Me3vsBA9XQ",
+            "image": "https://media.trace.moe/image/114308/Sword%20Art%20Online%20Alicization%20-%20War%20of%20Underworld%20-%2019%20(BD%201280x720%20x264%20AAC).mp4?t=1297.58&token=6BgbywvlYtKApJV0Me3vsBA9XQ"
+        },
+        {
+            "anilist": {
+                "id": 21306,
+                "idMal": 31442,
+                "title": {
+                    "native": "無彩限のファントム・ワールド",
+                    "romaji": "Musaigen no Phantom World",
+                    "english": "Myriad Colors Phantom World"
+                },
+                "synonyms": [],
+                "isAdult": false
+            },
+            "filename": "Musaigen no Phantom World - 05 (BD 1280x720 x264 AACx3).mp4",
+            "episode": 5,
+            "from": 1112.67,
+            "to": 1112.92,
+            "similarity": 0.7603504671795817,
+            "video": "https://media.trace.moe/video/21306/Musaigen%20no%20Phantom%20World%20-%2005%20(BD%201280x720%20x264%20AACx3).mp4?t=1112.795&token=Gx1PqH1mZQsKcYVjQ94aR8XNNw",
+            "image": "https://media.trace.moe/image/21306/Musaigen%20no%20Phantom%20World%20-%2005%20(BD%201280x720%20x264%20AACx3).mp4?t=1112.795&token=Gx1PqH1mZQsKcYVjQ94aR8XNNw"
+        }
+    ]
+}
