@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"io"
+	"mime/multipart"
 	"net/http"
 	"net/url"
 	"os"
@@ -76,7 +77,26 @@ func (m *Moe) Search(path string, cutBlackBorders bool, includeAnilistInfo bool)
 			vals["image"] = append(vals["image"], path)
 			resp, err = http.PostForm(u, vals)
 		} else {
-			resp, err = http.Post(u, "multipart/form-data", bytes.NewReader(d))
+			body := new(bytes.Buffer)
+			mw := multipart.NewWriter(body)
+			w, err1 := mw.CreateFormFile("image", path)
+			if err1 != nil {
+				return nil, err1
+			}
+			_, err1 = io.Copy(w, bytes.NewReader(d))
+			if err1 != nil {
+				return nil, err1
+			}
+			err1 = mw.Close()
+			if err1 != nil {
+				return nil, err1
+			}
+			req, err1 := http.NewRequest("POST", u, body)
+			if err1 != nil {
+				return nil, err1
+			}
+			req.Header.Set("Content-Type", mw.FormDataContentType())
+			resp, err = http.DefaultClient.Do(req)
 		}
 	}
 	if err != nil {
